@@ -1,1 +1,1 @@
-# prime-number-finder
+This is a simple interactive website that allows users to enter a number and check whether it's a prime number. It uses HTML to build the structure, CSS for styling, and JavaScript to handle the prime number logic and user interaction.-number-finder
